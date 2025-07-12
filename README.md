@@ -1,4 +1,4 @@
-🍽 Zomato Data Analysis Project
+## 🍽 Zomato Data Analysis Project
 
 This project is a comprehensive Data Analysis performed on the Zomato dataset using Python and  data science libraries within a Jupyter Notebook environment. The objective was to clean, explore, and visualize restaurant-related data to uncover meaningful insights about customer ratings, online orders, restaurant types, and average spending.
 
